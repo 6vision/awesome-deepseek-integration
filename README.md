@@ -210,6 +210,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
         <td> A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories.</td>
     </tr>
+    <tr>
+        <td> <img src="https://cdn.link-ai.tech/doc/CoW%20logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
+        <td> ChatGPT-on-WeChat (CoW) is a flexible chatbot framework supporting multiple AI models, including DeepSeek, GPT, LinkAI and others. It easily integrates with platforms such as WeChat Official Accounts, WeCom, Feishu, DingTalk, and Web, and supports custom plugins.</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks

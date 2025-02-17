@@ -148,6 +148,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
         <td> 会話型Q&Aエージェントの構成システム、自ホスト型デプロイメントソリューション、および便利なオールインワンアプリケーションSDKを提供し、GitHubリポジトリのためのインテリジェントQ&Aボットをワンクリックで作成し、さまざまな公式ウェブサイトやプロジェクトに迅速に統合し、コミュニティのためのより効率的な技術サポートエコシステムを提供します。</td>
     </tr>
+    <tr>
+        <td> <img src="https://cdn.link-ai.tech/doc/CoW%20logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
+        <td> ChatGPT-on-WeChat (CoW) は、DeepSeek、GPT、LinkAI など複数の AI モデルをサポートする柔軟なチャットボットフレームワークです。WeChat公式アカウント、WeCom、Feishu、DingTalk、Web などのプラットフォームに簡単に統合でき、カスタムプラグインをサポートします。</td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク
